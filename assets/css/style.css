@@ -1,0 +1,49 @@
+body {
+    background-image: url(../images/rain.gif);
+	background-position: center;
+
+}
+.game {
+    color: goldenrod;
+    border: 10px solid rgb(129, 6, 6);
+    text-align: center;
+    background: rgba(44, 5, 5, 0.575);
+    padding-bottom: 80px;
+    margin: 35px 100px 35px 100px;
+    
+
+}
+
+#title {
+    text-align: lft;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 10px solid gray;
+    background: rgba(19, 16, 4, 0.692);
+}
+p {
+    border-bottom: 4px groove rgba(83, 83, 24, 0.377);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    padding: 8px;    
+}
+#others {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+h1 {
+    font-family: 'Sedgwick Ave', cursive;
+    margin-top: 40px;
+    color: white;
+    text-shadow: -10px 0 rgb(209, 13, 13), 0 10px rgb(179, 6, 6), 10px 0 rgb(245, 0, 0), 0 -10px rgb(202, 19, 19);
+
+    font-size: 45px;   
+}
+
