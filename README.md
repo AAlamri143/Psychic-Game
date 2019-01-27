@@ -7,8 +7,8 @@ URL: [https://aalamri143.github.io/Psychic-Game/](https://aalamri143.github.io/P
 
 # Technologies
 
-HTML
-CSS
-JavaScript
-jQuery
-Boostrap
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Boostrap
